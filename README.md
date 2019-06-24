@@ -3,7 +3,7 @@
 </head>
 </head>
 <body>
-  <h1>Deafault ops</h1>
+<h1>Deafault ops</h1>
 <p> Attackers</p>
 <li> Ash <p>
 <li> Sledge <p>
